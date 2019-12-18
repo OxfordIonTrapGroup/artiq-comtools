@@ -7,7 +7,7 @@ setup(
     url="https://m-labs.hk/artiq",
     description="Lightweight ARTIQ communication tools",
     license="LGPLv3+",
-    install_requires=["setuptools", "sipyco", "numpy", "aiohttp"],
+    install_requires=["setuptools", "sipyco", "numpy"],
     packages=find_packages(),
     entry_points={
         "console_scripts": [

@@ -14,11 +14,9 @@ build:
 requirements:
   build:
     - python 3.5*
-    - aiohttp
     - numpy
     - sipyco
   run:
     - python 3.5*
-    - aiohttp
     - numpy
     - sipyco
